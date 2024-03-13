@@ -23,11 +23,11 @@
 ## Empty Builds
 
 | Version          | Date                    | Manifest ID          | Description          |
-|-----------------|----------------------|----------------------|
-| ??? | December 16, 2021 | 4720320975556634282 | Empty - No Game Data |
-| ??? | March 8, 2022     | 4720320975556634282 | Empty - No Game Data |
-| ??? | May 13, 2022      | 6772042146285906403 | Empty - No Game Data |
-| ??? | May 13, 2022      | 5034283521478976240 | Empty - No Game Data |
+|------------------|-------------------------|----------------------|----------------------|
+| ???              | December 16, 2021       | 4720320975556634282 | Empty - No Game Data |
+| ???              | March 8, 2022           | 4720320975556634282 | Empty - No Game Data |
+| ???              | May 13, 2022            | 6772042146285906403 | Empty - No Game Data |
+| ???              | May 13, 2022            | 5034283521478976240 | Empty - No Game Data |
 
 
 ## MultiVersus Public Releases
